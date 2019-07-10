@@ -18,3 +18,9 @@ Symmetries are also crucial to the structure of the Standard Model of particle p
 Interestingly, in many proposed extensions to the Standard Model, this symmetry doesn’t exist, implying decays that do not conserve lepton flavour are possible. One decay searched for at the LHC is τ → μμμ (or τ → 3μ). Observation of this decay would be a clear indication of the violation of lepton flavour and a sign of long-sought new physics.
 
 One improvement of this project is the true random sampling with IBMq quantum processor, if you want to use it you need to create an account into [IBMq](https://quantumexperience.ng.bluemix.net/qx/).
+
+
+
+
+
+
